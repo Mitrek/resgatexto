@@ -1,0 +1,9 @@
+pyperclip
+keyboard
+pyautogui
+openai
+google-generativeai
+anthropic
+pystray
+pillow
+PyQt6
